@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  esUtil_win32.c
+  esUtil_TGA.c
+  esUtil.c
+  esTransform.c
+  esShapes.c
+  esShader.c
+  Generating Code...
+  esUtil.vcxproj -> C:\Users\Admin\source\repos\SVN\common\lib\esUtil_d.lib

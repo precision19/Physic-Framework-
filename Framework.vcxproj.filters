@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Render">
+      <UniqueIdentifier>{38cf424b-9295-4b8c-b1eb-41a92ee65ee7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\define.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="source\log.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="source\matrix.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="source\openGLESv2.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="source\shaderManager.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="source\videoDriver.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Object.h" />
+    <ClInclude Include="source\Plane.h" />
+    <ClInclude Include="source\Rect.h" />
+    <ClInclude Include="source\Cir.h" />
+    <ClInclude Include="source\SceneManager.h" />
+    <ClInclude Include="source\CollisionManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\matrix.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="source\videoDriver.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Main.cpp" />
+    <ClCompile Include="source\shaderManager.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="source\SceneManager.cpp" />
+    <ClCompile Include="source\Object.cpp" />
+    <ClCompile Include="source\Cir.cpp" />
+    <ClCompile Include="source\Plane.cpp" />
+    <ClCompile Include="source\Rect.cpp" />
+    <ClCompile Include="source\CollisionManager.cpp" />
+  </ItemGroup>
+</Project>

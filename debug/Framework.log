@@ -1,0 +1,21 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SceneManager.cpp
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(29,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(170,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(197,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(206,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(213,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(227,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(234,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(236,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(244,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(246,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(251,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(253,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(265,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\SVN\source\SceneManager.cpp(271,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Framework.vcxproj -> C:\Users\Admin\source\repos\SVN\BIN\Framework.exe

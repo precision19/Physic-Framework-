@@ -1,0 +1,41 @@
+#OBJECT_NUM 8
+#ID 0
+TYPE: Circle
+position: 50, 50, 45
+velocity: 35
+mass: 25
+#ID 1
+TYPE: Rectangle
+position: 115, 3, 100, 100
+velocity: 20
+mass: 30
+#ID 2
+TYPE: Rectangle
+position: 500, 18, 44, 120
+velocity: 30
+mass: 40
+#ID 3
+TYPE: Circle
+position: 700, 80, 70
+velocity: 35
+mass: 19
+#ID 4
+TYPE: Plane
+position: 1, 1, 800, 1
+velocity: 40
+mass: 9
+#ID 5
+TYPE: Plane
+position: 800, 1, 800, 479
+velocity: 40
+mass: 9
+#ID 6
+TYPE: Plane
+position: 1, 479, 800, 479
+velocity: 40
+mass: 9
+#ID 7
+TYPE: Plane
+position: 1, 1, 1, 479
+velocity: 40
+mass: 9
